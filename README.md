@@ -2,6 +2,17 @@
 
 This is the code for our paper [Learning Convolutional Text Representations for Visual Question Answering](https://arxiv.org/abs/1705.06824). We used it to explore different text representation methods in VQA. The reference code is [vqa-mcb](https://github.com/akirafukui/vqa-mcb).
 
+If you wish to cite our work, you can use the following bib for now. 
+
+```
+@article{wang2017learning,
+  title={Learning Convolutional Text Representations for Visual Question Answering},
+  author={Wang, Zhengyang and Ji, Shuiwang},
+  journal={arXiv preprint arXiv:1705.06824},
+  year={2017}
+}
+```
+
 ## Instructions
 
 To replicate our results, do the following prerequisites as in [vqa-mcb](https://github.com/akirafukui/vqa-mcb):
