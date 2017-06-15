@@ -1,6 +1,6 @@
 # Learning Convolutional Text Representations for Visual Question Answering
 
-This is the code for our paper submitted to KDD 2017, "Learning Convolutional Text Representations for Visual Question Answering". We used it to explore different text representation methods in VQA. The reference code is [vqa-mcb](https://github.com/akirafukui/vqa-mcb).
+This is the code for our paper [Learning Convolutional Text Representations for Visual Question Answering](https://arxiv.org/abs/1705.06824). We used it to explore different text representation methods in VQA. The reference code is [vqa-mcb](https://github.com/akirafukui/vqa-mcb).
 
 ## Instructions
 
