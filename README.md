@@ -8,11 +8,13 @@ Created by [Zhengyang Wang](http://www.linkedin.com/in/zhengyangwang1991) and [S
 If you wish to cite our work, you can use the following bib for now. 
 
 ```
-@article{wang2017learning,
+@inproceedings{wang2018learning,
   title={Learning Convolutional Text Representations for Visual Question Answering},
   author={Wang, Zhengyang and Ji, Shuiwang},
-  journal={arXiv preprint arXiv:1705.06824},
-  year={2017}
+  booktitle={Proceedings of the 2018 SIAM International Conference on Data Mining},
+  pages={594--602},
+  year={2018},
+  organization={SIAM}
 }
 ```
 
