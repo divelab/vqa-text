@@ -2,7 +2,7 @@
 
 This is the code for our SDM18 paper [Learning Convolutional Text Representations for Visual Question Answering](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.67). We used it to explore different text representation methods in VQA. The reference code is [vqa-mcb](https://github.com/akirafukui/vqa-mcb).
 
-Created by [Zhengyang Wang](http://www.linkedin.com/in/zhengyangwang1991) and [Shuiwang Ji](http://www.linkedin.com/in/shuiwang-ji-9a040715/) at Texas A&M University.
+Created by [Zhengyang Wang](http://people.tamu.edu/~zhengyang.wang/) and [Shuiwang Ji](http://people.tamu.edu/~sji/index.html) at Texas A&M University.
 
 ## Citation
 If you wish to cite our work, you can use the following bib for now. 
